@@ -1,0 +1,19 @@
+{
+  "id": "artistic_vehicle_55",
+  "category": "artistic_composition",
+  "subcategory": "vehicles",
+  "vehicle_type": "biplane",
+  "difficulty": "hard",
+  "prompt": "Create a vintage biplane with two wings.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 5,
+    "notes": "",
+    "rated at": null
+  }
+}

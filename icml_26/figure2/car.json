@@ -1,0 +1,19 @@
+{
+  "id": "artistic_vehicle_43",
+  "category": "artistic_composition",
+  "subcategory": "vehicles",
+  "vehicle_type": "sports car",
+  "difficulty": "hard",
+  "prompt": "Create a sleek sports car.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 6,
+    "notes": "",
+    "rated_at": null
+  }
+}
