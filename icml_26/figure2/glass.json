@@ -1,0 +1,19 @@
+{
+  "id": "artistic_object_9",
+  "category": "artistic_composition",
+  "subcategory": "everyday_objects",
+  "object_type": "wine glass",
+  "difficulty": "medium",
+  "prompt": "Create a wine glass with stem and base.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 10,
+    "notes": "",
+    "rated at": null
+  }
+}

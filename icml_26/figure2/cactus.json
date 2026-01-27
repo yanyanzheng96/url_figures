@@ -1,0 +1,19 @@
+{
+  "id": "artistic_natural_11",
+  "category": "artistic_composition",
+  "subcategory": "natural_forms",
+  "form_type": "cactus",
+  "difficulty": "medium",
+  "prompt": "Create a cactus with spines.",
+  "rating": 
+  {
+    "if_rated": null,
+    "if_hasobject": null,
+    "if_position_correct": null,
+    "if_material_correct": null,
+    "if_shape_correct": null,
+    "if_goodlooking": null,
+    "notes": "",
+    "rated_at": null
+  }
+}

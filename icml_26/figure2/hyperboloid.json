@@ -1,0 +1,19 @@
+{
+  "id": "symbolic_single_shape_62",
+  "category": "symbolic_reasoning",
+  "subcategory": "single_3d_object_shape",
+  "shape": "hyperboloid",
+  "difficulty": "hard",
+  "prompt": "Create a hyperboloid with Aluminium material, base radius 360, height 760, at position (40, 40, 320).",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 10,
+    "notes": "",
+    "rated_at": null
+  }
+}

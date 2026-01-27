@@ -1,0 +1,19 @@
+{
+  "id": "symbolic_single_shape_70",
+  "category": "symbolic_reasoning",
+  "subcategory": "single_3d_object_shape",
+  "shape": "crescent",
+  "difficulty": "hard",
+  "prompt": "Create a blue crescent shape, size 320, at position (240, -160, 440).",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 10,
+    "notes": "",
+    "rated_at": null
+  }
+}

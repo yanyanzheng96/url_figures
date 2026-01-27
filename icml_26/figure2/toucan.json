@@ -1,0 +1,19 @@
+{
+  "id": "artistic_animal_51",
+  "category": "artistic_composition",
+  "subcategory": "animals",
+  "animal_type": "toucan",
+  "difficulty": "hard",
+  "prompt": "Create a toucan with large beak in a perching pose using basic geometric shapes.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 9,
+    "notes": "",
+    "rated_at": null
+  }
+}

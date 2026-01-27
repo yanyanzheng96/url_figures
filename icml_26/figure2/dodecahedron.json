@@ -1,0 +1,19 @@
+{
+  "id": "symbolic_single_shape_59",
+  "category": "symbolic_reasoning",
+  "subcategory": "single_3d_object_shape",
+  "shape": "dodecahedron",
+  "difficulty": "hard",
+  "prompt": "Create a dodecahedron (Platonic solid) with Bark material, edge length 280, at position (440, 520, 360).",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 10,
+    "notes": "",
+    "rated_at": null
+  }
+}
