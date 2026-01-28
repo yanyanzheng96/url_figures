@@ -1,0 +1,18 @@
+{
+  "id": "artistic_housing_56",
+  "category": "artistic_composition",
+  "subcategory": "housing",
+  "difficulty": "medium",
+  "prompt": "Build a grain silo.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": false,
+    "if_shape_correct": true,
+    "if_goodlooking": 7,
+    "notes": "",
+    "rated at": null
+  }
+}

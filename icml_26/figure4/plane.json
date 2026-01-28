@@ -1,0 +1,19 @@
+{
+  "id": "artistic_vehicle_54",
+  "category": "artistic_composition",
+  "subcategory": "vehicles",
+  "vehicle_type": "fighter jet",
+  "difficulty": "hard",
+  "prompt": "Create a fighter jet with weapons.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 7,
+    "notes": "",
+    "rated_at": null
+  }
+}
