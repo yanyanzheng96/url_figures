@@ -1,0 +1,19 @@
+{
+  "id": "geometric_operations_36",
+  "category": "geometric_construction",
+  "subcategory": "geometry_operations",
+  "operation": "subtract",
+  "difficulty": "medium",
+  "prompt": "Create a cube (size 400) with cylindrical hole through it along Y-axis (radius 120) using black color.",
+  "rating": 
+  {
+    "if_rated": null,
+    "if_hasobject": null,
+    "if_position_correct": null,
+    "if_material_correct": null,
+    "if_shape_correct": null,
+    "if_goodlooking": null,
+    "notes": "",
+    "rated_at": null
+  }
+}
