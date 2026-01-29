@@ -27,10 +27,10 @@ Create an **8 rows x 9 columns image grid** comparing voxel generation results f
 - **Symbolic Hard**: "HELLO WORLD" text (artistic_writing_sentences_25)
 - **Geometry Easy**: Brown cone (symbolic_single_shape_2)
 - **Geometry Medium**: Twisted Cube (geometric_parametric)
-- **Geometry Hard**: (TBD)
-- **Artistic Easy**: (TBD)
-- **Artistic Medium**: (TBD)
-- **Artistic Hard**: (TBD)
+- **Geometry Hard**: Wave Surface (geometric_surface)
+- **Artistic Easy**: Starfish (artistic_animal_29)
+- **Artistic Medium**: Bar Stool with Footrest (artistic_object_99)
+- **Artistic Hard**: Rooftop Penthouse (artistic_housing_57)
 
 ---
 
@@ -96,11 +96,53 @@ Create an **8 rows x 9 columns image grid** comparing voxel generation results f
 | 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/opus4_twist_cube_cropped.png |
 | 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/sonnet45_twist_cube_cropped.png |
 
-### Columns 6-9: (To be filled)
-- geometry_hard/
-- artistic_easy/
-- artistic_medium/
-- artistic_hard/
+### Column 6: Geometry Hard (Wave Surface)
+| Row | Model | URL |
+|-----|-------|-----|
+| 1 | Gemini Pro | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/gemini_wave_cropped.png |
+| 2 | GPT-5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/gpt5_wave_cropped.png |
+| 3 | GPT-5 Chat | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/gpt5chat_wave_cropped.png |
+| 4 | GPT-5 Mini | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/gpt5mini_wave_cropped.png |
+| 5 | Claude 3.5 Sonnet | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/claude35sonnet_wave_cropped.png |
+| 6 | Claude 3 Opus | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/claude3opus_wave_cropped.png |
+| 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/opus4_wave_cropped.png |
+| 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_hard/sonnet45_wave_cropped.png |
+
+### Column 7: Artistic Easy (Starfish)
+| Row | Model | URL |
+|-----|-------|-----|
+| 1 | Gemini Pro | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/gemini_starfish_cropped.png |
+| 2 | GPT-5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/gpt5_starfish_cropped.png |
+| 3 | GPT-5 Chat | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/gpt5chat_starfish_cropped.png |
+| 4 | GPT-5 Mini | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/gpt5mini_starfish_cropped.png |
+| 5 | Claude 3.5 Sonnet | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/claude35sonnet_starfish_cropped.png |
+| 6 | Claude 3 Opus | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/claude3opus_starfish_cropped.png |
+| 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/opus4_starfish_cropped.png |
+| 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_easy/sonnet45_starfish_cropped.png |
+
+### Column 8: Artistic Medium (Bar Stool with Footrest)
+| Row | Model | URL |
+|-----|-------|-----|
+| 1 | Gemini Pro | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/gemini_bar_stool_cropped.png |
+| 2 | GPT-5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/gpt5_bar_stool_cropped.png |
+| 3 | GPT-5 Chat | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/gpt5chat_bar_stool_cropped.png |
+| 4 | GPT-5 Mini | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/gpt5mini_bar_stool_cropped.png |
+| 5 | Claude 3.5 Sonnet | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/claude35sonnet_bar_stool_cropped.png |
+| 6 | Claude 3 Opus | (missing screenshot) |
+| 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/opus4_bar_stool_cropped.png |
+| 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_medium/sonnet45_bar_stool_cropped.png |
+
+### Column 9: Artistic Hard (Rooftop Penthouse)
+| Row | Model | URL |
+|-----|-------|-----|
+| 1 | Gemini Pro | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/gemini_rooftop_cropped.png |
+| 2 | GPT-5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/gpt5_rooftop_cropped.png |
+| 3 | GPT-5 Chat | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/gpt5chat_rooftop_cropped.png |
+| 4 | GPT-5 Mini | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/gpt5mini_rooftop_cropped.png |
+| 5 | Claude 3.5 Sonnet | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/claude35sonnet_rooftop_cropped.png |
+| 6 | Claude 3 Opus | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/claude3opus_rooftop_cropped.png |
+| 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/opus4_rooftop_cropped.png |
+| 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/artistic_hard/sonnet45_rooftop_cropped.png |
 
 ---
 

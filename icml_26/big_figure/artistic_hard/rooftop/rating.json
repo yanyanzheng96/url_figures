@@ -1,0 +1,18 @@
+{
+  "id": "artistic_housing_57",
+  "category": "artistic_composition",
+  "subcategory": "housing",
+  "difficulty": "medium",
+  "prompt": "Build a penthouse apartment on rooftop.",
+  "rating": 
+  {
+    "if_rated": true,
+    "if_hasobject": true,
+    "if_position_correct": true,
+    "if_material_correct": true,
+    "if_shape_correct": true,
+    "if_goodlooking": 5,
+    "notes": "",
+    "rated at": null
+  }
+}
