@@ -26,7 +26,7 @@ Create an **8 rows x 9 columns image grid** comparing voxel generation results f
 - **Symbolic Medium**: Chinese character "光" (artistic_writing_words_18)
 - **Symbolic Hard**: "HELLO WORLD" text (artistic_writing_sentences_25)
 - **Geometry Easy**: Brown cone (symbolic_single_shape_2)
-- **Geometry Medium**: (TBD)
+- **Geometry Medium**: Twisted Cube (geometric_parametric)
 - **Geometry Hard**: (TBD)
 - **Artistic Easy**: (TBD)
 - **Artistic Medium**: (TBD)
@@ -84,8 +84,19 @@ Create an **8 rows x 9 columns image grid** comparing voxel generation results f
 | 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_easy/opus4_symbolic_single_shape_2_cropped.png |
 | 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_easy/sonnet45_symbolic_single_shape_2_cropped.png |
 
-### Columns 5-9: (To be filled)
-- geometry_medium/
+### Column 5: Geometry Medium (Twisted Cube)
+| Row | Model | URL |
+|-----|-------|-----|
+| 1 | Gemini Pro | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/gemini_twist_cube_cropped.png |
+| 2 | GPT-5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/gpt5_twist_cube_cropped.png |
+| 3 | GPT-5 Chat | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/gpt5chat_twist_cube_cropped.png |
+| 4 | GPT-5 Mini | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/gpt5mini_twist_cube_cropped.png |
+| 5 | Claude 3.5 Sonnet | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/claude35sonnet_twist_cube_cropped.png |
+| 6 | Claude 3 Opus | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/claude3opus_twist_cube_cropped.png |
+| 7 | Claude Opus 4 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/opus4_twist_cube_cropped.png |
+| 8 | Claude Sonnet 4.5 | https://raw.githubusercontent.com/yanyanzheng96/url_figures/main/icml_26/big_figure/geometry_medium/sonnet45_twist_cube_cropped.png |
+
+### Columns 6-9: (To be filled)
 - geometry_hard/
 - artistic_easy/
 - artistic_medium/
